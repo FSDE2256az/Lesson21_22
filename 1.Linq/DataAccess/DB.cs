@@ -13,7 +13,7 @@ public static class DB
             new Student{Id = 5, Name= "Ilham", Surname = "Namazov", Age = 18, Score = 5},
             new Student{Id = 6, Name= "Nicat", Surname = "Nabizade", Age = 15, Score = 6},
             new Student{Id = 7, Name= "Xayyam", Surname = "Qasimov", Age = 19, Score = 9},
-            new Student{Id = 8, Name= "Zahra", Surname = "Shixalizade", Age = 19, Score = 11.8},
+            new Student{Id = 8, Name= "Zahra", Surname = "Shixalizade", Age = 19, Score = 11.5},
             new Student{Id = 9, Name= "Ismayil", Surname = "Mammadli", Age = 15, Score = 8.2}
         };
 
