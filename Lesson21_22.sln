@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Linq", "1.Linq\1.Linq.csproj", "{F41E4D5D-E0B5-4467-9B9E-C96FD45BD4CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Discard", "2.Discard\2.Discard.csproj", "{8BBDDFCE-C652-4DC2-A195-50E712E6C93B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F41E4D5D-E0B5-4467-9B9E-C96FD45BD4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F41E4D5D-E0B5-4467-9B9E-C96FD45BD4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F41E4D5D-E0B5-4467-9B9E-C96FD45BD4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BBDDFCE-C652-4DC2-A195-50E712E6C93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBDDFCE-C652-4DC2-A195-50E712E6C93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBDDFCE-C652-4DC2-A195-50E712E6C93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBDDFCE-C652-4DC2-A195-50E712E6C93B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

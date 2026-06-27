@@ -107,7 +107,5 @@ public class Program
             //.OrderByDescending(x => x.Score)
             .PrintGeneric();
 
-
-
     }
 }
